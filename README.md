@@ -71,7 +71,7 @@ Final-year IT student shipping production code with automated testing • Availa
 Full-stack web applications with TypeScript, React, and Node.js—focusing on security, testing, and production-grade code quality
 
 🌱 **Currently Learning**  
-C# and ASP.NET Core ecosystem · Selenium WebDriver for UI automation · CI/CD with GitHub Actions
+Deepening my knowledge of backend development, API design, and applying testing principles to improve software reliability.
 
 👯 **Open to Collaborate On**  
 Open-source projects involving React, Node.js, API development, or testing frameworks
