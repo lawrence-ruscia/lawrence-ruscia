@@ -4,31 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/lawrence-ruscia-44a7432b1/) [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:ruscia.291583@stamesa.sti.edu.ph)
 
-Final-year IT student shipping production code with automated testing • Available for internship (Jan 2026)
-
-
-
----
-
-## 🚀 Featured Project
-
-### FundXpert - Provident Fund Management System
-
-> A full-stack web application managing employee retirement fund operations with strong security practices and automated testing.
-
-**Technical Achievements:**
-- 🧪 Achieved **~75% automated test coverage** across unit, integration, and API tests  
-- 🔐 Implemented **JWT authentication with TOTP-based 2FA** and role-based access control  
-- 🐛 Identified and fixed an **authorization bypass vulnerability** through systematic testing  
-- 💰 Built and validated **multi-level approval workflows** supporting 3 distinct user roles  
-- 📊 Developed role-based dashboards for tracking requests and application state  
-- 🚀 Deployed the application using **Supabase, Render, and Vercel**, maintaining code quality with Git-based workflows  
-
-**Tech Stack:** TypeScript · React · Node.js · Express.js · PostgreSQL · Prisma ORM  
-**Testing:** Jest · Vitest · Supertest · Postman  
-**DevOps:** Git · Supabase · Render · Vercel
-
-🔗 **Repository:** [View on GitHub](https://github.com/lawrence-ruscia/fundxpert-capstone-project)
+Final-year IT student building production-ready web applications • Seeking internship opportunities
 
 ---
 
