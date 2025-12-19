@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/lawrence-ruscia-44a7432b1/) [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:ruscia.291583@stamesa.sti.edu.ph)
 
-Final-year IT student shipping production code with automated testing • Available for internship (Jan 2025)
+Final-year IT student shipping production code with automated testing • Available for internship (Jan 2026)
 
 
 
@@ -17,18 +17,18 @@ Final-year IT student shipping production code with automated testing • Availa
 > A full-stack web application managing employee retirement fund operations with strong security practices and automated testing.
 
 **Technical Achievements:**
-- 🧪 **75% test coverage** across unit, integration, and API tests
-- 🔐 Implemented JWT + TOTP 2FA authentication with role-based access control
-- 🐛 Discovered and fixed **authorization bypass vulnerability** through systematic testing
-- 💰 Automated multi-level approval workflows serving 3 distinct user roles
-- 📊 Built real-time dashboards with data visualization
-- 🚀 Deployed to production using Supabase, Render, and Vercel with Git-based workflows
+- 🧪 Achieved **~75% automated test coverage** across unit, integration, and API tests  
+- 🔐 Implemented **JWT authentication with TOTP-based 2FA** and role-based access control  
+- 🐛 Identified and fixed an **authorization bypass vulnerability** through systematic testing  
+- 💰 Built and validated **multi-level approval workflows** supporting 3 distinct user roles  
+- 📊 Developed role-based dashboards for tracking requests and application state  
+- 🚀 Deployed the application using **Supabase, Render, and Vercel**, maintaining code quality with Git-based workflows  
 
 **Tech Stack:** TypeScript · React · Node.js · Express.js · PostgreSQL · Prisma ORM  
 **Testing:** Jest · Vitest · Supertest · Postman  
 **DevOps:** Git · Supabase · Render · Vercel
 
-[View Repository →](https://github.com/lawrence-ruscia/fundxpert-capstone-project)
+🔗 **Repository:** [View on GitHub](https://github.com/lawrence-ruscia/fundxpert-capstone-project)
 
 ---
 
@@ -68,7 +68,7 @@ Final-year IT student shipping production code with automated testing • Availa
 ## 🎯 What I Do
 
 🔭 **Currently Building**  
-Full-stack web applications with TypeScript, React, and Node.js—focusing on security, testing, and production-grade code quality
+Web applications with TypeScript, React, and Node.js, focusing on backend logic, API reliability, and automated testing.
 
 🌱 **Currently Learning**  
 Deepening my knowledge of backend development, API design, and applying testing principles to improve software reliability.
@@ -77,7 +77,7 @@ Deepening my knowledge of backend development, API design, and applying testing 
 Open-source projects involving React, Node.js, API development, or testing frameworks
  
 💬 **Ask Me About**  
-Building secure REST APIs · JWT + 2FA authentication · Automated testing with 75% coverage · Finding security vulnerabilities
+REST API design · Authentication & authorization · Automated testing strategies · Finding edge cases and security issues through testing
 
 ⚡ **Fun Fact**  
 I discovered an authorization bypass bug in my capstone that would've let users approve their own loans—caught it through automated testing before production
@@ -103,7 +103,7 @@ I discovered an authorization bypass bug in my capstone that would've let users 
 ---
 
 <div align="center">
-  <i>💼 Actively seeking Software Developer & QA Engineering internship opportunities • Available January 2025</i>
+  <i>💼 Actively seeking Software Developer & QA Engineering internship opportunities • Available January 2026</i>
   <br><br>
   <i>📧 ruscia.291583@stamesa.sti.edu.ph • 💼 <a href="https://www.linkedin.com/in/lawrence-ruscia-44a7432b1/">LinkedIn</a></i>
 </div>
