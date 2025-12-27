@@ -62,11 +62,7 @@ I discovered an authorization bypass bug in my capstone that would've let users 
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lawrence-ruscia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=lawrence-ruscia&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lawrence-ruscia&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
